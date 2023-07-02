@@ -1,2 +1,2 @@
 # Linux-Shell-Code
-Usefull Linux Shell Code.
+Useful Linux Shell Code.
